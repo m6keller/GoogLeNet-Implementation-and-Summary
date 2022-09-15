@@ -1,6 +1,6 @@
 # GoogLeNet Summary and Implementation
 
-This repository contains a summary and implementation (using TensorFlow and Keras) of the GoogLeNet model created using using [Inception](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202) architecture for the ILSVRC 2014 Classification Challenge and ILSVRC 2014 Detection Challenge
+This repository contains a summary and implementation (using TensorFlow and Keras) of the GoogLeNet model created using [Inception](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202) architecture for the ILSVRC 2014 Classification Challenge and ILSVRC 2014 Detection Challenge
 
 ## Overview
 
