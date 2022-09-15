@@ -46,8 +46,6 @@ The input layer takes parameter of shape 224x224 with RBG colour values. First c
 
 ## Positives
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/736ea796-23d1-4558-af46-08d5818644a1/Untitled.png)
-
 ## Resources:
 
 - [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) - C. Szegedy et al.
