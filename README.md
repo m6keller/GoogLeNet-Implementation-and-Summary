@@ -42,9 +42,9 @@ Results show that approx optimal sparse structure with reaily available dense bu
 
 The input layer takes parameter of shape 224x224 with RBG colour values. First convolutional layer has a patch size of 7x7, reducing input image size. 2 max pooling layers are used btween inception modules, and 9 total inception modules are implemented. Auxillary classifiers are reduced at the third and sixth Inception layers to reduce overfitting Dropout layer is also used befor linear layer to regularize and prevent overfitting.
 
-## Issues
+<!-- ## Issues
 
-## Positives
+## Positives -->
 
 ## Resources:
 
