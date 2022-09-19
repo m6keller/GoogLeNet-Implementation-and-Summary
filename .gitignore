@@ -1,3 +1,4 @@
+.gitignore
 data/
 X_train.npy
 __pycache__/
