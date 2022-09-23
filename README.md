@@ -50,3 +50,5 @@ The input layer takes parameter of shape 224x224 with RBG colour values. First c
 
 - [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) - C. Szegedy et al.
 - [Deep Learning: GoogLeNet Explained](https://towardsdatascience.com/deep-learning-googlenet-explained-de8861c82765#:~:text=GoogLeNet%20is%20a%2022%2Dlayer,developed%20by%20researchers%20at%20Google.) - R. Alake
+
+Author: Matthew Keller
