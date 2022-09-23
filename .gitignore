@@ -3,3 +3,4 @@ data/
 X_train.npy
 __pycache__/
 .pytest_cache
+example.py
